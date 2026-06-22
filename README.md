@@ -108,6 +108,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0056-merge-intervals](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -183,6 +184,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0033-search-in-rotated-sorted-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0493-reverse-pairs](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0704-binary-search) |
 ## Binary Indexed Tree
