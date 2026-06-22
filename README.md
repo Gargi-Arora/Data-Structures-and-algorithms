@@ -62,6 +62,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0075-sort-colors) |
@@ -93,6 +94,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | ------- |
 | [0001-two-sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0048-rotate-image) |
@@ -129,6 +131,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0229-majority-element-ii) |
