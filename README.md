@@ -67,3 +67,11 @@ Focus is on clarity first, then efficiency
 Always open to feedback, suggestions, or just DSA discussions!
 
 ⭐ If you're on a similar journey, feel free to fork or star this repo.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
