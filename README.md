@@ -66,6 +66,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0283-move-zeroes) |
@@ -103,6 +104,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0056-merge-intervals](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0128-longest-consecutive-sequence) |
@@ -135,6 +137,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0018-4sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
