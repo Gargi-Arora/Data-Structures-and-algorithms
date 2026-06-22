@@ -76,4 +76,8 @@ Always open to feedback, suggestions, or just DSA discussions!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
