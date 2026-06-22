@@ -99,6 +99,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0018-4sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0048-rotate-image) |
@@ -179,6 +180,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0493-reverse-pairs) |
