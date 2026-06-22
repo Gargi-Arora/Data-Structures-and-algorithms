@@ -59,6 +59,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -79,5 +80,6 @@ Always open to feedback, suggestions, or just DSA discussions!
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
