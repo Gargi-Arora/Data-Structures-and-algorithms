@@ -6,25 +6,12 @@ public:
         int el;
         for(int i=0;i<n;i++){
             if(cnt==0){
-                cnt=1;
-                el = nums[i];
-            }
-            else if(nums[i]==el){
                 cnt++;
-            }
-            else{
-                cnt--;
-            }
+                el = nums[i];
+            } 
+            else if(nums[i]==el) cnt++;
+            else cnt--;
         }
-        int count=0;
-        for(int i=0;i<n;i++){
-            if(nums[i]==el){
-                count++;
-            }
-            if(count>(n/2)){
-                return el;
-            }
-        }
-        return -1;
-    }
+        return el;
+    }    
 };
