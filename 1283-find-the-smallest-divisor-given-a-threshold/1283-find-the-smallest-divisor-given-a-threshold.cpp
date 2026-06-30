@@ -12,7 +12,7 @@ public:
         int low=1, high = *max_element(nums.begin(),nums.end());
         int ans = high;
         while(low<=high){
-            int mid = low + (high-low)/2;
+            int mid = (low + high)/2;
             long long total = CheckDivisor(nums,mid);
             if(total<=threshold){
                 ans = mid;
