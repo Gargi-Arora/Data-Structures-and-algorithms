@@ -1,7 +1,7 @@
 class Solution {
 public:
-    long long CheckDivisor(vector<int> &nums,int mid){
-        long long total =0;
+    int CheckDivisor(vector<int> &nums,int mid){
+        int total =0;
         for(int num : nums){
             total += (num+mid-1)/mid;
         }
@@ -13,7 +13,7 @@ public:
         int ans = high;
         while(low<=high){
             int mid = (low + high)/2;
-            long long total = CheckDivisor(nums,mid);
+            int total = CheckDivisor(nums,mid);
             if(total<=threshold){
                 ans = mid;
                 high = mid-1;
