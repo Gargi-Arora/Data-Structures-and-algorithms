@@ -1,26 +1,28 @@
 class Solution {
 public:
-    int daysNeeded(vector<int>& weights,int mid){
-        int days = 1;
-        int currentload = 0;
-        for(int w : weights){
-            if(currentload + w> mid){
+    int daysNeeded(vector<int> &weights, int capacity){
+        int currentLoad = 0;
+        int days=1;
+        for(int w: weights){
+            if(currentLoad+w > capacity){
                 days++;
-                currentload = w;
+                currentLoad = w;
             }
             else{
-                currentload+=w;
+                currentLoad+=w;
             }
         }
         return days;
     }
     int shipWithinDays(vector<int>& weights, int days) {
-        int low = *max_element(weights.begin(),weights.end()), high = accumulate(weights.begin(),weights.end(),0) ;
+        int low = *max_element(weights.begin(),weights.end());
+        int high = accumulate(weights.begin(),weights.end(),0);
+        int ans = high;
         while(low<=high){
             int mid = (low+high)/2;
-            int needed = daysNeeded(weights,mid);
-            if(needed <= days){
-                high = mid-1;
+            int Needed = daysNeeded(weights,mid);
+            if(Needed <= days){
+                high= mid-1;
             }
             else{
                 low = mid+1;
