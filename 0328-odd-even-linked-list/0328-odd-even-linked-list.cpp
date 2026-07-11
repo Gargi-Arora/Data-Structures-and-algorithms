@@ -16,9 +16,9 @@ public:
         ListNode* odd = dummyHead1;
         ListNode* even = dummyHead2;
         ListNode* temp = head;
-        int cnt = 0;
+        int cnt = 1;
         while(temp!=NULL){
-            if(cnt%2==0){
+            if(cnt%2!=0){
                 odd->next = temp;
                 odd = odd->next;
             }
