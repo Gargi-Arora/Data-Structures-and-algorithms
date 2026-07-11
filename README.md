@@ -48,6 +48,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0048-rotate-image) |
@@ -82,6 +83,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -241,5 +243,6 @@ Always open to feedback, suggestions, or just DSA discussions!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
