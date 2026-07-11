@@ -245,4 +245,5 @@ Always open to feedback, suggestions, or just DSA discussions!
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
