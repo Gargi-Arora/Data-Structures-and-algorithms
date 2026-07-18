@@ -55,6 +55,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0189-rotate-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0509-fibonacci-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -258,4 +259,5 @@ Always open to feedback, suggestions, or just DSA discussions!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0204-count-primes) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
