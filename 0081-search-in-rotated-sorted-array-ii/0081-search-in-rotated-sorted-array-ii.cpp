@@ -6,9 +6,8 @@ public:
        while(low<=high){
             int mid = (low+high)/2;
             if(nums[mid]== target ) return true;
-            if(nums[low]== nums[mid] && nums[mid]== nums[high]){
-                low+=1;
-                high-=1;
+            if(nums[low]==nums[mid] && nums[mid]==nums[high]){
+                low++,high--;
                 continue;
             }
             if(nums[low]<=nums[mid]){
