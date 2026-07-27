@@ -11,7 +11,7 @@ public:
                 ans = min(ans,nums[low]);
                 break;
             }
-            if(nums[low]<=nums[mid]){
+            else if(nums[low]<=nums[mid]){
                 ans = min(ans,nums[low]);
                 low = mid+1;
             }
