@@ -67,6 +67,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0075-sort-colors](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0283-move-zeroes) |
@@ -154,6 +155,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0001-two-sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
@@ -252,6 +254,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0237-delete-node-in-a-linked-list) |
