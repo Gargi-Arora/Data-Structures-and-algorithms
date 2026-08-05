@@ -304,4 +304,8 @@ Always open to feedback, suggestions, or just DSA discussions!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0023-merge-k-sorted-lists) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
