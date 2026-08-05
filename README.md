@@ -295,6 +295,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0234-palindrome-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -308,4 +309,12 @@ Always open to feedback, suggestions, or just DSA discussions!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
