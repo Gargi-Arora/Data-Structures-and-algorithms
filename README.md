@@ -296,6 +296,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0234-palindrome-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -313,8 +314,10 @@ Always open to feedback, suggestions, or just DSA discussions!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
