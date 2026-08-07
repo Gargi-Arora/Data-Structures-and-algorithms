@@ -141,6 +141,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0410-split-array-largest-sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0704-binary-search) |
@@ -169,6 +170,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0160-intersection-of-two-linked-lists](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
@@ -301,6 +303,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0225-implement-stack-using-queues](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -328,4 +331,8 @@ Always open to feedback, suggestions, or just DSA discussions!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
