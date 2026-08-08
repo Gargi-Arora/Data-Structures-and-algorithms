@@ -14,7 +14,7 @@ public:
         int total = 0;
         for(int i=0;i<n;i++){
             total += min(prefix[i], sufix[i]) - height[i];
-    }
+        }
     return total;
-}
+    }
 };
