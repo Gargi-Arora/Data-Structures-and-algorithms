@@ -159,6 +159,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [1552-magnetic-force-between-two-balls](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1901-find-a-peak-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -313,6 +314,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0496-next-greater-element-i](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/2104-sum-of-subarray-ranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -347,4 +349,5 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0496-next-greater-element-i](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
