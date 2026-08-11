@@ -144,6 +144,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0189-rotate-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0410-split-array-largest-sum) |
@@ -331,6 +332,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0239-sliding-window-maximum) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -350,6 +352,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0239-sliding-window-maximum) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -369,4 +372,13 @@ Always open to feedback, suggestions, or just DSA discussions!
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
