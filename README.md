@@ -84,6 +84,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0125-valid-palindrome) |
+| [0402-remove-k-digits](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0402-remove-k-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -279,6 +280,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0410-split-array-largest-sum) |
 ## Linked List
 |  |
@@ -319,6 +321,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0225-implement-stack-using-queues](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0735-asteroid-collision) |
@@ -357,6 +360,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0042-trapping-rain-water](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0907-sum-of-subarray-minimums) |
