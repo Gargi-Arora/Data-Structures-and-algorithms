@@ -3,7 +3,7 @@ public:
     stack<pair<int,int>> st;
     int ind = -1;
     StockSpanner() {
-        ind = -1;
+        // ind = -1;
     }
     
     int next(int price) {
