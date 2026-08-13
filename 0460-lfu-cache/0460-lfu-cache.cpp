@@ -57,7 +57,7 @@ public:
         if(freqListMap.find(node->cnt+1)!= freqListMap.end()){
             nextHigherFreqList = freqListMap[node->cnt+1];
         }
-        node->cnt++;
+        node->cnt +=1;
         nextHigherFreqList -> addFront(node);
         freqListMap[node->cnt] = nextHigherFreqList;
         KeyNode[node->key] = node;
