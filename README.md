@@ -121,6 +121,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0033-search-in-rotated-sorted-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0053-maximum-subarray) |
@@ -395,4 +396,8 @@ Always open to feedback, suggestions, or just DSA discussions!
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0460-lfu-cache) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
