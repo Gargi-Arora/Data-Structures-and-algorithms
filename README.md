@@ -124,6 +124,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0039-combination-sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0054-spiral-matrix) |
@@ -404,5 +405,6 @@ Always open to feedback, suggestions, or just DSA discussions!
 | ------- |
 | [0039-combination-sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
