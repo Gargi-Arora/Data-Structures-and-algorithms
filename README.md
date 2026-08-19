@@ -121,6 +121,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0033-search-in-rotated-sorted-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0042-trapping-rain-water) |
@@ -181,6 +182,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0138-copy-list-with-random-pointer) |
@@ -232,6 +234,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0073-set-matrix-zeroes) |
@@ -404,6 +407,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0046-permutations) |
@@ -412,5 +416,10 @@ Always open to feedback, suggestions, or just DSA discussions!
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
