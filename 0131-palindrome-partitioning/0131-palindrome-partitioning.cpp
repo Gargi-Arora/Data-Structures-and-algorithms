@@ -11,7 +11,7 @@ public:
             res.push_back(path);
             return;
         }
-        for(int i = index;i<s.size();++i){
+        for(int i = index;i<s.size();i++){
             if(isPalindrome(s,index,i)){
                 path.push_back(s.substr(index,i-index+1));
                 func(i+1,s,path,res);
