@@ -84,6 +84,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0402-remove-k-digits) |
 ## Dynamic Programming
 |  |
@@ -93,6 +94,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0085-maximal-rectangle](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0509-fibonacci-number) |
@@ -413,6 +415,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0046-permutations](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0131-palindrome-partitioning) |
 ## Algorithm X
 |  |
 | ------- |
