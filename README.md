@@ -83,6 +83,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0131-palindrome-partitioning) |
