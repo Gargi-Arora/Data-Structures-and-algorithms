@@ -160,6 +160,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0169-majority-element](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0204-count-primes) |
+| [0216-combination-sum-iii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0240-search-a-2d-matrix-ii) |
@@ -427,6 +428,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0051-n-queens](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0216-combination-sum-iii) |
 ## Algorithm X
 |  |
 | ------- |
