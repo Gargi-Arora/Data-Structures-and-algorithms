@@ -87,12 +87,14 @@ Always open to feedback, suggestions, or just DSA discussions!
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0402-remove-k-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0085-maximal-rectangle) |
@@ -380,6 +382,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0022-generate-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -416,6 +419,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0040-combination-sum-ii) |
