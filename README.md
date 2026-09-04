@@ -56,6 +56,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0060-permutation-sequence](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0204-count-primes) |
+| [0282-expression-add-operators](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1922-count-good-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -93,6 +94,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0125-valid-palindrome](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0139-word-break) |
+| [0282-expression-add-operators](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0402-remove-k-digits) |
 ## Dynamic Programming
 |  |
@@ -441,6 +443,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0090-subsets-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0282-expression-add-operators) |
 ## Algorithm X
 |  |
 | ------- |
