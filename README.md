@@ -89,6 +89,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0402-remove-k-digits) |
@@ -146,6 +147,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0073-set-matrix-zeroes](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0085-maximal-rectangle) |
@@ -253,6 +255,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0054-spiral-matrix](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1901-find-a-peak-element-ii) |
@@ -429,6 +432,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0040-combination-sum-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0216-combination-sum-iii) |
@@ -441,4 +445,8 @@ Always open to feedback, suggestions, or just DSA discussions!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0037-sudoku-solver) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
