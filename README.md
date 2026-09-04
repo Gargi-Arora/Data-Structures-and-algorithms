@@ -92,6 +92,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0079-word-search](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0139-word-break) |
 | [0402-remove-k-digits](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0402-remove-k-digits) |
 ## Dynamic Programming
 |  |
@@ -103,6 +104,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0118-pascals-triangle](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0509-fibonacci-number) |
@@ -121,6 +123,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -157,6 +160,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0162-find-peak-element) |
@@ -202,6 +206,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0073-set-matrix-zeroes](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0160-intersection-of-two-linked-lists) |
@@ -449,4 +454,12 @@ Always open to feedback, suggestions, or just DSA discussions!
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0079-word-search) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
