@@ -56,6 +56,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0060-permutation-sequence](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1922-count-good-numbers) |
@@ -119,6 +120,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0050-powx-n](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1922-count-good-numbers) |
@@ -199,6 +201,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | ------- |
 | [0090-subsets-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
