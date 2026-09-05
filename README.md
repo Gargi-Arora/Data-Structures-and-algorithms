@@ -154,6 +154,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0073-set-matrix-zeroes](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0084-largest-rectangle-in-histogram) |
@@ -199,6 +200,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0231-power-of-two) |
@@ -443,6 +445,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0040-combination-sum-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0131-palindrome-partitioning) |
