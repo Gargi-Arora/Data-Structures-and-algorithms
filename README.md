@@ -165,6 +165,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -203,6 +204,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0078-subsets](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Hash Table
