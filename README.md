@@ -99,6 +99,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0139-word-break](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
@@ -232,6 +233,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0160-intersection-of-two-linked-lists](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0229-majority-element-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
@@ -441,6 +443,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
