@@ -60,6 +60,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0231-power-of-two](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0509-fibonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1922-count-good-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
@@ -198,6 +199,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0930-binary-subarrays-with-sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -240,6 +242,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0560-subarray-sum-equals-k](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
@@ -297,6 +300,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0560-subarray-sum-equals-k](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
@@ -450,6 +454,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0904-fruit-into-baskets](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
