@@ -119,6 +119,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0139-word-break](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0907-sum-of-subarray-minimums) |
 ## Recursion
@@ -191,6 +192,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0260-single-number-iii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0493-reverse-pairs) |
@@ -266,6 +268,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0148-sort-list](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0229-majority-element-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0455-assign-cookies) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1552-magnetic-force-between-two-balls) |
 ## Divide and Conquer
@@ -364,6 +367,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0055-jump-game](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0860-lemonade-change) |
 ## Linked List
