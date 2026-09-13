@@ -10,16 +10,16 @@ public:
                 i++;
                 continue;
             }
-            int peak = 0;
+            int peak = 1;
             while(i<n&&ratings[i]>ratings[i-1]){
                 peak+=1;
-                sum+=(peak+1);
+                sum+=peak;
                 i++;
             }
-            int down = 0;
+            int down = 1;
             while(i<n&&ratings[i]<ratings[i-1]){
-                down+=1;
                 sum+=down;
+                down+=1;
                 i++;
             }
             if(down>peak){
