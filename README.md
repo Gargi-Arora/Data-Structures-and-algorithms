@@ -179,6 +179,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0118-pascals-triangle](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0139-word-break) |
@@ -368,6 +369,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | ------- |
 | [0045-jump-game-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0435-non-overlapping-intervals) |
