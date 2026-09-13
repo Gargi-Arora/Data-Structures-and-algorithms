@@ -103,6 +103,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0282-expression-add-operators](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
@@ -121,6 +122,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0410-split-array-largest-sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0907-sum-of-subarray-minimums) |
 ## Recursion
 |  |
@@ -370,6 +372,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0410-split-array-largest-sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0860-lemonade-change) |
 ## Linked List
 |  |
@@ -414,6 +417,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0402-remove-k-digits](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0907-sum-of-subarray-minimums) |
@@ -450,6 +454,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
