@@ -534,6 +534,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0079-word-search](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 ## Trie
@@ -554,6 +555,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0094-binary-tree-inorder-traversal](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
@@ -562,6 +564,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0094-binary-tree-inorder-traversal](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
