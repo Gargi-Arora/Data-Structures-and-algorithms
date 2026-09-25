@@ -15,8 +15,6 @@ public:
         int cnt = 0;
         int ans = -1;
         TreeNode* cur = root;
-        //if(k == 0) return 0;
-        //if(root == NULL) return 0;
         while(cur!=NULL){
             if(cur->left == NULL){
                 cnt++;
