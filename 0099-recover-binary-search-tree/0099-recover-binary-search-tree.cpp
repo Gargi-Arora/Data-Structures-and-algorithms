@@ -28,8 +28,8 @@ private:
                 last = root;
             }
         }
-            prev = root;
-            inorder(root->right);
+        prev = root;
+        inorder(root->right);
     }
 public:
     void recoverTree(TreeNode* root) {
