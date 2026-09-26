@@ -84,6 +84,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0234-palindrome-linked-list](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0455-assign-cookies) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -264,6 +265,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0460-lfu-cache](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0930-binary-subarrays-with-sum) |
@@ -569,6 +571,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -610,6 +613,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -642,6 +646,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -658,6 +663,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -684,6 +690,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
