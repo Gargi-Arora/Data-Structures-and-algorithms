@@ -193,6 +193,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0162-find-peak-element](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0229-majority-element-ii) |
@@ -316,6 +317,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
@@ -327,6 +329,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0074-search-a-2d-matrix](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1901-find-a-peak-element-ii) |
 ## Prefix Sum
@@ -568,6 +571,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0144-binary-tree-preorder-traversal](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -667,6 +671,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
