@@ -219,6 +219,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0907-sum-of-subarray-minimums](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -333,6 +334,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0200-number-of-islands](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1901-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
@@ -682,6 +684,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0733-flood-fill](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0994-rotting-oranges) |
 ## DP on Trees
 |  |
 | ------- |
