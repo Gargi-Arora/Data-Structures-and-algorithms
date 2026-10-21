@@ -226,6 +226,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [1004-max-consecutive-ones-iii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -325,6 +326,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0130-surrounded-regions](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
@@ -341,6 +343,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0542-01-matrix](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1020-number-of-enclaves) |
 | [1901-find-a-peak-element-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1901-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
@@ -595,6 +598,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0802-find-eventual-safe-states](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1020-number-of-enclaves) |
 ## Trie
 |  |
 | ------- |
@@ -696,6 +700,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1020-number-of-enclaves) |
 ## DP on Trees
 |  |
 | ------- |
