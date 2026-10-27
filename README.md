@@ -236,6 +236,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1552-magnetic-force-between-two-balls) |
+| [1631-path-with-minimum-effort](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/2104-sum-of-subarray-ranges) |
@@ -333,6 +334,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0547-number-of-provinces](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -351,6 +353,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0994-rotting-oranges](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1901-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
@@ -385,6 +388,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1552-magnetic-force-between-two-balls) |
+| [1631-path-with-minimum-effort](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Indexed Tree
 |  |
@@ -476,6 +480,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0239-sliding-window-maximum) |
+| [1631-path-with-minimum-effort](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1631-path-with-minimum-effort) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -610,6 +615,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1631-path-with-minimum-effort) |
 ## Trie
 |  |
 | ------- |
@@ -718,6 +724,7 @@ Always open to feedback, suggestions, or just DSA discussions!
 | [0994-rotting-oranges](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1631-path-with-minimum-effort) |
 ## DP on Trees
 |  |
 | ------- |
@@ -789,4 +796,8 @@ Always open to feedback, suggestions, or just DSA discussions!
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/0127-word-ladder) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Gargi-Arora/Data-Structures-and-algorithms/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
